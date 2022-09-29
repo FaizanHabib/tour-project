@@ -1,2 +1,2 @@
 # tour-project
-Created with CodeSandbox
+Diploy url: https://csb-b27t7k.netlify.app/
